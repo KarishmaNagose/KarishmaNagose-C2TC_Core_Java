@@ -14,6 +14,7 @@ public class Hashset {
 		set.add(2);
 		set.add(3);
 		set.add(4);
+		set.add(2);
 		
 		//Search - Contains
 		if(set.contains(1)) {
